@@ -22,3 +22,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.btn {
+  @apply border border-gray-900 bg-white text-gray-900 py-2 px-4 transition-all duration-300 hover:bg-gray-900 hover:text-white cursor-pointer;
+}

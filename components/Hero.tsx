@@ -7,7 +7,7 @@ export default function Hero() {
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quis quo
         reiciendis eveniet at, accusamus quidem.
       </p>
-      <button className="border py-1 px-2">Read More</button>
+      <button className="btn">Read More</button>
     </section>
   );
 }
